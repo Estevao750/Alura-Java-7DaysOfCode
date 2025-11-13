@@ -1,9 +1,11 @@
 # Alura-Java-7DaysOfCode
-# 🎬 IMDB Top 250 Filmes - Java API Client
+# 🎬 The Movie Database (TMDb) - Java API Client
 
 Este projeto é uma aplicação Java desenvolvida como parte do desafio **#7DaysOfCode da Alura**.
 
-O objetivo foi construir uma aplicação que consome a API do IMDB (Top 250 Filmes), processa os dados JSON retornados e gera uma página HTML com os resultados, utilizando apenas código Java.
+O objetivo foi construir uma aplicação que consome a API do **The Movie Database (TMDb)** para buscar filmes populares, processar os dados JSON retornados e gerar uma página HTML com os resultados, utilizando apenas código Java.
+
+A API do TMDb foi escolhida como alternativa gratuita à API do IMDB.
 
 ## 🎯 Desafio
 
